@@ -1,3 +1,6 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import streamlit as st
 from import_pdf import read_uploaded_file
 from embedding_data import fetch_similar_text,clear_collections
