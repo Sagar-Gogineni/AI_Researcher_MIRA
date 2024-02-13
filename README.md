@@ -1,5 +1,6 @@
 # AI_Researcher_MIRA
 MIRA - An AI research assistant built with GPT3.5 and Mistral 7b 
+Demo @ https://mira-airesearcher.streamlit.app/
 
 In this blog post, I will show you how to build an AI research assistant that can answer your questions based on a PDF file of your choice. You can use this assistant to chat with your research paper, get insights, and learn new things. 🧠
 
